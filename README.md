@@ -46,6 +46,10 @@ This repository contains the core components of the proposal:
 - **[API Specification](./api_spec.md):** Technical details for the verification endpoint.
 - **[Privacy Audit Template](./privacy_audit_template.md):** A checklist for ensuring compliance and safety.
 
+## Public Evidence Submission
+
+Written evidence submitted to the House of Commons Library — September 2025 ([PDF](./evidence/Project_SHIELD_Written_Evidence_Submission.pdf))
+
 ## How to Contribute
 
 This is an open proposal. We welcome contributions from all sectors to improve its robustness and feasibility.
