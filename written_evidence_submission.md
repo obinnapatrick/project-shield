@@ -66,7 +66,8 @@ This evidence submission presents Project SHIELD, a viable, privacy-preserving a
 
 6.2. **Supporting Documents:**
     - [Executive Brief (PDF)](https://github.com/obinnapatrick/project-shield/blob/main/executive_brief.pdf)
-    - [Pilot Blueprint (PDF)](https://github.com/obinnapatrick/project-shield/blob/main/pilot_plan.pdf)
+    - [Pilot Blueprint (PDF)](https://github.com/obinnapatrick/project-shield/blob/main/pilot_blueprint.pdf)
+    - [Written Evidence Submission (PDF)](https://github.com/obinnapatrick/project-shield/blob/main/written_evidence_submission.pdf)
 
 ---
 
